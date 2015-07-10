@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      Alpha 1 Design Decisions
+date:       2015-04-26 14:00:00 +0200
+author:     a-teammate
+summary:    We released our first alpha version: The Caffeine Edition!
+---
+
 # Alpha 1 Design Decisions
 #### **Or: Answers to Questions (Sauerbraten) Developers might ask**
 

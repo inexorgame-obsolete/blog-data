@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      Inexor Caffeine Edition
+date:       2015-06-02 23:53:00 +0200
+author:     Fohlen
+summary:    We released our first alpha version: The Caffeine Edition!
+---
+
 # Inexor Caffeine Edition
 Hello there. Finally the time has come to release the first alpha of Inexor. 
 
