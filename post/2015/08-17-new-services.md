@@ -21,12 +21,12 @@ As soon as possible (on November 16) we will follow the *let's encrypt* movement
 ## Upcoming Inexor development
 As there hasn't any apparent progress to the project I want to clean up the rumours about the current status of Inexor.
 We are about to release the 2nd release, so called *Ritalin Edition*, which will bring CEF support (HTML5 & Node) more or less quickly.
-There's still need to propperly build binaries for linux and maintain an OSX build.
-This is up to anyone who is able to help, and we'd like to encourage **you** to contribute at [Github](https://github.com/inexor-game/code).
+There's still need to propperly build binaries for Linux and maintain an OSX build.
+This is up to anyone who is able to help, and we'd like to encourage **you** to contribute at [GitHub](https://github.com/inexor-game/code).
 Despite the build depency issues we finally reached a point at which we have built a solid foundation for Inexor as a standalone fork.
 
 ## What's currently being worked on
-Inexor *v0.3* will finally bring changes to public users, a view examples are
+Inexor *v0.3* will finally bring changes to public users, a few examples are
 
 * A HTML5 based new GUI
 * Completly customizable client (via JavaScript)
@@ -47,6 +47,6 @@ Anyhow we'd like everyone to contribute to the forum. We just want to be sure ev
 On a side note: entries on the *Content* category will officially listed on our website, which is why they are moderated.
 
 ## Help is appreciated
-We are looking for every helping hand! Don't be shy and drop us a comment on IRC, Pads, Github (...)
+We are looking for every helping hand! Don't be shy and drop us a comment on IRC, Pads, GitHub (...)
 
 
