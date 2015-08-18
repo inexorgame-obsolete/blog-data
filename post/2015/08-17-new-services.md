@@ -26,12 +26,11 @@ This is up to anyone who is able to help, and we'd like to encourage **you** to 
 Despite the build depency issues we finally reached a point at which we have built a solid foundation for Inexor as a standalone fork.
 
 ## What's currently being worked on
-Inexor *v0.3* will finally bring changes to public users, a few examples are
+We are working also on many new features directly for the players, a few examples are 
 
 * A HTML5 based new GUI
 * Completly customizable client (via JavaScript)
-* A new map format (using JSON to indicate meta, such as authors..)
-* [New sound system](https://www.youtube.com/watch?v=U1fgyc1Ew4g)
+* [New sound system](https://github.com/inexor-game/code/issues/205)
 
 
 Additionally I *(personally)* am working on a refactored masterserver, featuring global authentication with the following goals
