@@ -4,8 +4,8 @@ This repository contains all markdown files served as blog posts on [our homepag
 #contribution guidelines
 Following are contribution guidelines:
 
-- All content must be licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-- Additional resources may have any other license as long as it explicitly permits usage. 
+- All text postings must be licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
+- Additional content like images may have any license allowed by our [license policy](https://github.com/inexor-game/data/wiki/License-Policy). 
 - Use [Standard English](http://en.wikipedia.org/wiki/Standard_written_English) and [appropriate language](https://owl.english.purdue.edu/owl/resource/608/01/) for your posts. 
 - If you are uncertain consider to use the issue tracker to obtain feedback.
 
