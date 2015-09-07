@@ -18,18 +18,18 @@ If you're curious what has changed under the hood, have a look at this pad about
 ### Something doesn't work. What to do?
 Don't panic. This is still pre-release software, and there are a few bugs known.
 
- 1. You can always try to grab the latest build from our [nightly archive](http://nightly.inexor.org).
- 2. Furthermore, if you are on Ubuntu, you should check out [this bug](https://github.com/inexor-game/code/issues/209).
- 3. If you encounter any strange errors, let us know in [our forum](https://community.inexor.org), on [Github](https://github.com/inexor-game), or @ _#inexor_
+1. You can always try to grab the latest build from our [nightly archive](http://nightly.inexor.org).
+2. Furthermore, if you are on Ubuntu, you should check out [this bug](https://github.com/inexor-game/code/issues/209).
+3. If you encounter any strange errors, let us know in [our forum](https://community.inexor.org), on [Github](https://github.com/inexor-game), or @ _#inexor_
 
 ### What's next on the list?
 There's dozens of things to do, but there are a few preferences set:
 
- * Round up all the fixes and cleanups we started. Have a look at our [bug-tracker](https://github.com/inexor-game/code/issues)!
- * Deliver native linux builds for major distributions and cross-compiled binaries for OS X.
- * Get CEF to run propperly and design a GUI with it!
- * Enhance the RPC so we're able to script Inexor with ease
- * Establish a way to send maps, configs, textures (...), which will likely result in a slightly new map format.
- * [Write a new masterserver](https://github.com/inexor-game/code/issues/20) and get it running.
+* Round up all the fixes and cleanups we started. Have a look at our [bug-tracker](https://github.com/inexor-game/code/issues)!
+* Deliver native linux builds for major distributions and cross-compiled binaries for OS X.
+* Get CEF to run propperly and design a GUI with it!
+* Enhance the RPC so we're able to script Inexor with ease
+* Establish a way to send maps, configs, textures (...), which will likely result in a slightly new map format.
+* [Write a new masterserver](https://github.com/inexor-game/code/issues/20) and get it running.
 
 If you feel like any of these match your skills, don't hesitate to join our forces!
