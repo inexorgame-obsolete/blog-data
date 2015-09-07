@@ -19,11 +19,12 @@ In case you are not part of the team feel encouraged to send a [pull request](ht
 
 #how to contribute
 Please make sure you read the following instructions **before** you write any blog post.
-If you're new to markdown you should take a minute and read [Daring Fireball's markdown guide](http://daringfireball.net/projects/markdown/syntax).
+If you're new to Markdown you should take a minute and read [Daring Fireball's Markdown guide](http://daringfireball.net/projects/markdown/syntax).
 
-- Simply drop a file into this repository. It will be automatically listed on the blog.
--	You can post any valid markdown. Use Github's preview feature to check if you are confident with the result.
--	Please modify **one** file per commit.
+- Use `post-example.md` as the template for your post.
+- Drop your file in the respective directory. It will be automatically listed on the blog.
+- You can post any valid Markdown. Use GitHub's preview feature to check if you are confident with the result.
+- Please modify **one** file per commit.
 
 #technical notes
 All content is fetched hourly by our servers. Therefore it may take a while for your content to become apparent.
