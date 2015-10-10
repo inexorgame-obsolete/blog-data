@@ -1,68 +1,57 @@
-[
-	{
-		"github_id": "7704407",
+{
+	"7704407": {
 		"names": {
 			"inexor": "a_teammate"
 		}
 	},
-	{
-		"github_id": "2207279",
+	"2207279": {
 		"names": {
 			"inexor": "Hanack"
 		}
 	},
-	{
-		"github_id": "3369034",
+	"3369034": {
 		"names": {
 			"inexor": "Boomerang"
 		}
 	},
-	{
-		"github_id": "1593194",
+	"1593194": {
 		"names": {
 			"inexor": "Nooby"
 		}
 	},
-	{
-		"github_id": "180032",
+	"180032": {
 		"names": {
 			"inexor": "Calinou"
 		}
 	},
-	{
-		"github_id": "3730888",
+	"3730888": {
 		"names": {
 			"inexor": "Fohlen"
 		}
 	},
-	{
-		"github_id": "7914428",
+	"7914428": {
 		"names": {
 			"inexor": "Hanni"
 		}
 	},
-	{
-		"github_id": "1255353",
+	"1255353": {
 		"names": {
 			"inexor": "killme"
 		}
 	},
-	{
-		"github_id": "1451261",
+	"1451261": {
 		"names": {
 			"inexor": "mapc"
 		}
 	},
-	{
-		"github_id": "8083227",
+	"8083227": {
 		"names": {
 			"inexor": "Fatality"
 		}
 	},
-	{
-		"github_id": "5863862",
+	"5863862": {
 		"names": {
 			"inexor": "supertux"
 		}
 	}
-]
+}
