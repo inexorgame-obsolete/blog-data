@@ -50,6 +50,7 @@ Inexor is currently in a phase moving from base refactories to new, exciting fea
 Summing it up, thus means we have a fairly good base to build upon a new standalone game, faster and easier.
 
 Since this is only grey theory, I'd like to outline a few interesting features that are currently being worked on
+
 - [A version controll system for maps](https://youtu.be/Paxwy4cShwc?list=PLCbZc-GgCGzLhkGS5l850tjCQrPUeapK6) by *Boomerang*
 - [Refactored sound system](https://www.youtube.com/watch?v=U1fgyc1Ew4g&index=2&list=PLCbZc-GgCGzLhkGS5l850tjCQrPUeapK6) suggested by *Hanni*
 - [Flying camera's](https://www.youtube.com/watch?v=zqldiZ2Sht4 ) by Hanni as well
