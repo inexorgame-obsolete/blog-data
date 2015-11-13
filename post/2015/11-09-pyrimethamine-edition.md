@@ -6,7 +6,6 @@ author:     Fohlen
 summary:    We released Alpha 0.4 aka "Pyrimethamine" Edition
 ---
 
-## Pyrimethamine Edition
 *So you've been wondering what has happened to Inexor in the past 2 months, since we didn't cause a sensation lately?*
 
 Firstly, and most importantly, we officially released the __Pyrimethamine Edition__, which is our 4th Alpha release.
@@ -18,6 +17,7 @@ As usually you can obtain the release [from GitHub](https://github.com/inexor-ga
 
 Please report any bug or strange behavoir on IRC or GitHub.
 
+
 #### What have we got next?
 In honor of one and a half years of Inexor development, we are proud to present the very first Inexor 'Hackathon', in Stuttgart respectively.
 
@@ -26,6 +26,7 @@ The event is going to take place in a local hackerspace called 'Shackspace' on 1
 
 
 Since we are still in planning phase additional info resides in the [following pad](https://pad.inexor.org/p/Hackathon_2015), we will update the blog once things settled.
+
 
 #### News from the build frontier
 Unfortanly a propper build and testing pipeline is hard to build, but we're making great success lately
@@ -36,9 +37,9 @@ Unfortanly a propper build and testing pipeline is hard to build, but we're maki
 
 Up next we'd like to cheer out that Inexor is officially participating in the [Let's Encrypt Closed Beta programm](https://www.eff.org/de/deeplinks/2015/10/lets-encrypt-enters-private-beta), which means we will forcibly deliver __all__ our services via SSL.
 
+
 ### And where's the developer stuff?
 Ofcourse this shouldn't be missed out in my report. 
-
 
 Inexor is currently in a phase moving from base refactories to new, exciting features. So far we have
 
@@ -53,7 +54,7 @@ Since this is only grey theory, I'd like to outline a few interesting features t
 
 - [A Version Controll System for maps](https://youtu.be/Paxwy4cShwc?list=PLCbZc-GgCGzLhkGS5l850tjCQrPUeapK6) by Boomerang
 - [Refactored sound system](https://www.youtube.com/watch?v=U1fgyc1Ew4g&index=2&list=PLCbZc-GgCGzLhkGS5l850tjCQrPUeapK6) suggested by Hanni
-- [Flying cameras](https://www.youtube.com/watch?v=zqldiZ2Sht4 ) by Hanni as well
+- [Flying cameras](https://www.youtube.com/watch?v=zqldiZ2Sht4&list=PLCbZc-GgCGzLhkGS5l850tjCQrPUeapK6&index=26) by Hanni as well
 - An [RPC interface](https://piratenpad.de/p/Inexor_tree_api) designed to flake CubeScript (by mapc)
 - Chromium Embedded Framework which brings HTML5/CSS3 websites [as GUI's](https://www.youtube.com/watch?v=eFMS_bXPDr8&index=16&list=PLCbZc-GgCGzLhkGS5l850tjCQrPUeapK6) into our game
 - A [dynamic entitiy system](https://www.youtube.com/watch?v=V2EdetGrCCc&index=14&list=PLCbZc-GgCGzLhkGS5l850tjCQrPUeapK6) by Hanack
