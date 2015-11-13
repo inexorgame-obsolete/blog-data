@@ -6,7 +6,7 @@ author:     Fohlen
 summary:    The new services are online.
 ---
 
-# New services.
+## New services.
 It took me quiet a while but I'd like to announce the release of the new *Inexor* server, including the following services
 
 * A redesigned website including some [new features](https://github.com/inexor-game/blog/releases/tag/0.2)
@@ -16,7 +16,7 @@ It took me quiet a while but I'd like to announce the release of the new *Inexor
 * Nightly builds (as they used to be).
 * A [notifico](http://notifico.inexor.org) instance to keep development up-to-date on IRC.
 
-As soon as possible (on November 16) we will follow the *let's encrypt* movement and offer all our services exclusively via SSL.
+As soon as possible (on November 16) we will follow the *Let's Encrypt* movement and offer all our services exclusively via SSL.
 
 ## Upcoming Inexor development
 As there hasn't any apparent progress to the project I want to clean up the rumours about the current status of Inexor.
@@ -28,7 +28,7 @@ Despite the build depency issues we finally reached a point at which we have bui
 ## What's currently being worked on
 We are working also on many new features directly for the players, a few examples are 
 
-* A HTML5 based new GUI
+* A HTML5 based new UI
 * Completly customizable client (via JavaScript)
 * [New sound system](https://github.com/inexor-game/code/issues/205)
 
@@ -47,5 +47,3 @@ On a side note: entries on the *Content* category will officially listed on our 
 
 ## Help is appreciated
 We are looking for every helping hand! Don't be shy and drop us a comment on IRC, Pads, GitHub (...)
-
-
