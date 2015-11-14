@@ -6,7 +6,6 @@ author:     a-teammate
 summary:    Answers to questions, which developers might ask.
 ---
 
-# Alpha 1 Design Decisions
 #### **Or: Answers to Questions (Sauerbraten) Developers might ask**
 
 This alpha release is mainly meant to showcase various developer specific changes (compared to Sauerbraten).
