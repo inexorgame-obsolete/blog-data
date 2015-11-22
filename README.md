@@ -1,7 +1,7 @@
-# blog-data
-This repository contains all markdown files served as blog posts on [our homepage](https://inexor.org).
+# Blog Data
+This repository contains all Markdown files served as blog posts on [our homepage](https://inexor.org) and further content.
 
-#contribution guidelines
+# Contribution guidelines
 Following are contribution guidelines:
 
 - All text postings must be licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
@@ -9,15 +9,15 @@ Following are contribution guidelines:
 - Use [Standard English](http://en.wikipedia.org/wiki/Standard_written_English) and [appropriate language](https://owl.english.purdue.edu/owl/resource/608/01/) for your posts. 
 - If you are uncertain consider to use the issue tracker to obtain feedback.
 
-#contributors
+# Contributors
 Everyone is encouraged to contribute to the blog.
 
 Please stick to project-related subjects such as developer reports, community events (...).
-If you'd like to do any official announcement clarify your concern by submitting a issue tagged with _#statement_.
+If you'd like to do any official announcement clarify your concern by submitting an issue tagged with _#statement_.
 
 In case you are not part of the team feel encouraged to send a [pull request](https://help.github.com/articles/using-pull-requests/).
 
-#how to contribute
+# How to contribute
 Please make sure you read the following instructions **before** you write any blog post.
 If you're new to Markdown you should take a minute and read [Daring Fireball's Markdown guide](http://daringfireball.net/projects/markdown/syntax).
 
@@ -25,5 +25,5 @@ If you're new to Markdown you should take a minute and read [Daring Fireball's M
 - Drop your file in the respective directory. It will be automatically listed on the blog.
 - You can post any valid Markdown. Use GitHub's preview feature to check if you are confident with the result.
 
-#technical notes
+# Technical notes
 All content is fetched hourly by our servers. Therefore it may take a while for your content to become apparent.
