@@ -1,0 +1,51 @@
+---
+layout:     post
+title:      Hackathon in Stuttgart
+date:       2015-11-22 16:00 +0200
+author:     Fohlen
+summary:    The Inexor Hackathon 2015 is tacking place in Stuttgart
+---
+
+## Inexor Hackathon 2015 - taking place in Stuttgart
+As we've previously announced, we are going to organize a local hackathon in Stuttgart, this year.
+
+####Considerable informations
+
+- The event takes place from Saturday 12th to Sunday 13th of December, 2015
+- The event takes place at the *Shackspace* in Stuttgart. Further information can be found [at their website](http://shackspace.de/?page_id=713).
+
+####We've planned the following schedule for the hackathon
+
+<table>
+    <tr>
+      <th>Times</th>
+      <td>12 am</td>
+      <td>1:30 pm to 7 pm</td>
+      <td>7 pm to 9 pm</td>
+    </tr>
+    <tr>
+	<th>Saturday</th>
+        <td> We will offer a talk/presentation for everyone and answer questions</td>
+	<td>Our public hackathon. We will discuss and work on current issues of Inexor</td>
+	<td>Internal team meeting</td>
+    </tr>
+    <tr>
+	<th>Sunday</th>
+	<td>A little public tournament, for everyone interested</td>
+	<td>Departure</td>
+	<td></td>
+    </tr>
+</table>
+
+####Participants
+Please check out the following [Doodle](http://doodle.com/poll/qpxyrs7iksuvxuxb) if you'd like to participate.
+
+####Spread the word
+Tell your neighbor, your coworker, your fellow student - everyone who could be interested in a uprising new open-source FPS.
+
+Additionally, we **encourage** any reposting on mailing lists or related blogs. 
+####I've got a question left - who to talk to?
+Firstly consider our [internal pad](https://pad.inexor.org/p/Hackathon_2015), which gives a deeper insight into the event.
+*a_teammate* and *Fohlen* manage the event, either drop them a mail *@inexor.org* or contact us on IRC.
+
+**Last but not least**, we're as excited about the Hackathon as you are - see you in December!
