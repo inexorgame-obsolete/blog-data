@@ -12,14 +12,20 @@ As we've previously announced, we are going to organize a local hackathon in Stu
 #### Considerable informations
 
 - The event takes place from Saturday 12th to Sunday 13th of December, 2015
-- The event takes place at the *Shackspace* in Stuttgart. Further information can be found [at their website](http://shackspace.de/?page_id=713).
+- The event takes place at the *shackspace* in Stuttgart. Further information can be found [at their website](http://shackspace.de/?page_id=713).
 
 #### We've planned the following schedule for the hackathon
+**Saturday**
 
-Times | 12 am | 1:30 pm to 7 pm | 7 pm to 9 pm
------ | ----- | --------------- | ------------
-Saturday | We will offer a talk/presentation for everyone and answer questions | Our public hackathon. We will discuss and work on current issues of Inexor | Internal team meeting
-Sunday | A little public tournament, for everyone interested | Departure | |
+- *12 p.m* - We will offer a talk/presentation for everyone and answer questions
+- *1:30 to 7 p.m* - Our public hackathon. We will discuss and work on current issues of Inexor
+- *7 p.m to 9 p.m* - Internal team meeting
+
+**Sunday**
+
+- *12 p.m* - a little public tournament, for everyone interested
+- *1 p.m* - Departure
+
 
 #### Participants
 Please check out the following [Doodle](http://doodle.com/poll/qpxyrs7iksuvxuxb) if you'd like to participate.
