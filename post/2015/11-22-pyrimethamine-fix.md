@@ -16,12 +16,7 @@ Since there have been a bunch of issues with the current Pyrimethamine Edition, 
 - CEF is now packaged and installed accordingly
 - Repairs various functions that would try to load non-existent files (such as */getmap*)
 
-Furthermore we have discovered a workaround for occuring DLL-errors on Windows.
 
-To use the fix, please proceed after the following scheme
-
-1. Download Alpha 0.4.1 fix from [GitHub](https://github.com/inexor-game/code/releases/tag/0.4.1-alpha)
-2. Drop the files within the *.zip* into your Inexor folder (this will likely replace a lot of files in the *bin* folder)
-3. Obtain the [*Visual C++ Redistributable for Visual Studio 2015*](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+You can download Inexor 0.4.1 Alpha from [GitHub](https://github.com/inexor-game/code/releases/tag/0.4.1-alpha). Please note that we are offering only for Windows official binaries at the moment. If you are on a 32-bit Windows version then download `inexor-0.4.1-win32.zip`, if you are on a 64-bit Windows version download `inexor-0.4.1-win64.zip`.
 
 Please [report any bugs](https://github.com/inexor-game/code/issues) as you spot them. If you'd generally like to have a talk with us, check the [forum](https://community.inexor.org) or *#inexor @ gamesurge.net*
