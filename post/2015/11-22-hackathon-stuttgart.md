@@ -17,7 +17,7 @@ As we've previously announced, we are going to organize a local hackathon in Stu
 #### We've planned the following schedule for the hackathon
 **Saturday**
 
-- *12 p.m* - We will offer a talk/presentation for everyone and answer questions - please note that the presentation will be in German
+- *12 p.m* - We will offer a talk/presentation for everyone and answer questions
 - *1:30 to 7 p.m* - Our public hackathon. We will discuss and work on current issues of Inexor
 - *7 p.m to 9 p.m* - Internal team meeting
 
