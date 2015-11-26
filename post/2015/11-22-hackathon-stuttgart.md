@@ -7,17 +7,17 @@ summary:    The Inexor Hackathon 2015 is taking place in Stuttgart.
 ---
 
 ## Inexor Hackathon 2015 - taking place in Stuttgart
-As we've previously announced, we are going to organize a local hackathon in Stuttgart, this year.
+As we've previously announced, we are going to organize a local hackathon in Stuttgart this year.
 
 #### Considerable informations
 
 - The event takes place from Saturday 12th to Sunday 13th of December, 2015
-- The event takes place at the *shackspace* in Stuttgart. Further information can be found [at their website](http://shackspace.de/?page_id=713).
+- The event takes place at the *shackspace* in Stuttgart (to be more exact: [Ulmer Straße 255, 70327 Stuttgart](http://www.openstreetmap.org/?mlat=48.7770&mlon=9.236&zoom=15)). Further information can be found [at their website](http://shackspace.de/?page_id=713) (German).
 
 #### We've planned the following schedule for the hackathon
 **Saturday**
 
-- *12 p.m* - We will offer a talk/presentation for everyone and answer questions
+- *12 p.m* - We will offer a talk/presentation for everyone and answer questions - please note that the presentation will be in German
 - *1:30 to 7 p.m* - Our public hackathon. We will discuss and work on current issues of Inexor
 - *7 p.m to 9 p.m* - Internal team meeting
 
