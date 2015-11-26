@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Pyrimethamine Edition
-date:       2015-11-09 16:30 +0200
+date:       2015-11-09 16:30 +0100
 author:     Fohlen
 summary:    We released Alpha 0.4 aka "Pyrimethamine" Edition
 ---

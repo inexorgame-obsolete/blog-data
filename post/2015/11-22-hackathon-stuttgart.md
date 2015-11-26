@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Hackathon in Stuttgart
-date:       2015-11-22 16:00 +0200
+date:       2015-11-22 16:00 +0100
 author:     Fohlen
 summary:    The Inexor Hackathon 2015 is taking place in Stuttgart.
 ---

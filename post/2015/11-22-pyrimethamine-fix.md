@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Pyrimethamine Fix
-date:       2015-11-22 15:30 +0200
+date:       2015-11-22 15:30 +0100
 author:     Fohlen
 summary:    We released Alpha 0.4.1 which is a fix for the"Pyrimethamine" Edition
 ---
