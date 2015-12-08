@@ -25,7 +25,7 @@ As we've previously announced, we are going to organize a local hackathon in Stu
 **Sunday**
 
 - *10 a.m to 3 p.m* - The hacking continues
-- *1 p.m* - Departure
+- *3 p.m* - Departure
 
 
 #### Participants
