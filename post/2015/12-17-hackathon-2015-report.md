@@ -21,7 +21,7 @@ Without you guys, this meeting probably wouldn't have been possible, and the roo
 ![shackspace](https://scontent-frt3-1.cdninstagram.com/hphotos-xpf1/t51.2885-15/e35/12362163_998540253525753_1623989523_n.jpg)
 
 #### Public awareness
-Another point that we're very happy with is the audience of local hackers who discovered us, via [the shackspace blog (German)](http://shackspace.de/?p=5228).
+Another point that we're very happy with is the audience of local hackers who discovered us via [the shackspace blog (German)](http://shackspace.de/?p=5228).
 
 Unfortunately nobody brought a camera along for the presentation, which is why we can only [share the slides with you](https://www.adrive.com/public/4Vxjrv/slides-hackathon2015.html).
 
