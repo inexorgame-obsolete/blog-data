@@ -39,7 +39,7 @@ I'm very briefly going to talk about this one. As we've discussed hundred of vis
 
 * [a 3D visual scripting engine](https://github.com/inexor-game/code/tree/hanni/3DVisualScripting)
 * [Inexor Tree API](https://github.com/inexor-game/code/wiki/Inexor-Tree-API)
-* [Version Control System] for maps (https://github.com/inexor-game/code/wiki/Version-Control-System)
+* [Version Control System for maps](https://github.com/inexor-game/code/wiki/Version-Control-System)
 * a [better map format](https://github.com/inexor-game/code/wiki/Blueprint-Extendable-map-format)
 * [refactored source structure](https://github.com/inexor-game/code/pull/249)
 * [speed up the AppVeyor build process enormously](https://github.com/inexor-game/code/pull/252)
