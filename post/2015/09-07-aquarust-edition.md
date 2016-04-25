@@ -27,7 +27,7 @@ There's dozens of things to do, but there are a few preferences set:
 
 * Round up all the fixes and cleanups we started. Have a look at our [bug-tracker](https://github.com/inexor-game/code/issues)!
 * Deliver native Linux builds for major distributions and cross-compiled binaries for OS X.
-* Get CEF to run propperly and design a GUI with it!
+* Get CEF to run properly and design a GUI with it!
 * Enhance the RPC so we're able to script Inexor with ease.
 * Establish a way to send maps, configs, textures (...), together with a slightly new map format.
 * [Write a new masterserver](https://github.com/inexor-game/code/issues/20) and get it running.
