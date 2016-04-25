@@ -92,7 +92,7 @@ We also chose it since we plan to provide some pretty powerful scripting (e.g. s
 
 So how did we implement this and how did it change the current behaviour?
 We decided to outsource it to another engine: [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs), and let it call CubeScript commands!
-(*Lateron not CubeScript but a specialized API will be used..*)
+(*Later on not CubeScript but a specialized API will be used..*)
 This is implemented through a system called "Inter Process Communication":
 
 You may ask yourself, "inter process", does that mean I have to start two applications now to run Inexor?
