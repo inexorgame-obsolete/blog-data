@@ -6,7 +6,7 @@ author:     Fohlen
 summary:    The new services are online.
 ---
 
-It took me quiet a while but I'd like to announce the release of the new *Inexor* server, including the following services
+It took me quite a while, but I'd like to announce the release of the new *Inexor* server, including the following services
 
 * A redesigned website including some [new features](https://github.com/inexor-game/blog/releases/tag/0.2)
 * [Community forum](https://community.inexor.org) (using NodeBB)
@@ -18,9 +18,9 @@ It took me quiet a while but I'd like to announce the release of the new *Inexor
 As soon as possible (on November 16) we will follow the *Let's Encrypt* movement and offer all our services exclusively via SSL.
 
 ### Upcoming Inexor development
-As there hasn't any apparent progress to the project I want to clean up the rumours about the current status of Inexor.
+As there hasn't been any apparent progress to the project I want to clean up the rumors about the current status of Inexor.
 We are about to release the 2nd release, so called *Ritalin Edition*, which will bring CEF support (HTML5 & Node) more or less quickly.
-There's still need to propperly build binaries for Linux and maintain an OSX build.
+There's still need to propperly build binaries for Linux and to maintain an OSX build.
 This is up to anyone who is able to help, and we'd like to encourage **you** to contribute at [GitHub](https://github.com/inexor-game/code).
 Despite the build depency issues we finally reached a point at which we have built a solid foundation for Inexor as a standalone fork.
 
