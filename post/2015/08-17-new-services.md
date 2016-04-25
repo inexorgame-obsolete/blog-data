@@ -20,15 +20,15 @@ As soon as possible (on November 16) we will follow the *Let's Encrypt* movement
 ### Upcoming Inexor development
 As there hasn't been any apparent progress to the project I want to clean up the rumors about the current status of Inexor.
 We are about to release the 2nd release, so called *Ritalin Edition*, which will bring CEF support (HTML5 & Node) more or less quickly.
-There's still need to propperly build binaries for Linux and to maintain an OSX build.
+There's still need to properly build binaries for Linux and to maintain an OSX build.
 This is up to anyone who is able to help, and we'd like to encourage **you** to contribute at [GitHub](https://github.com/inexor-game/code).
-Despite the build depency issues we finally reached a point at which we have built a solid foundation for Inexor as a standalone fork.
+Despite the build dependency issues we finally reached a point at which we have built a solid foundation for Inexor as a standalone fork.
 
 ### What's currently being worked on
-We are working also on many new features directly for the players, a few examples are 
+We are working also on many new features directly for the players, a few examples are
 
 * A HTML5 based new UI
-* Completly customizable client (via JavaScript)
+* Completely customizable client (via JavaScript)
 * [New sound system](https://github.com/inexor-game/code/issues/205)
 
 
@@ -37,11 +37,11 @@ Additionally I *(personally)* am working on a refactored masterserver, featuring
 * Creating a global authentication service
 * Additionally offer protection
 * Offer statistics using [Valve's server protocol](https://developer.valvesoftware.com/wiki/Server_queries).
-* A league / statistics service similliar to *Origin's* Sauerbraten tracker.
+* A league / statistics service similar to *Origin's* Sauerbraten tracker.
 
 ### Notes about the forum
 Currently the forum is in a testing phase, which means that registration requires administrative approval.
-Anyhow we'd like everyone to contribute to the forum. We just want to be sure everything work's propperly.
+Anyhow we'd like everyone to contribute to the forum. We just want to be sure everything work's properly.
 On a side note: entries on the *Content* category will officially listed on our website, which is why they are moderated.
 
 ### Help is appreciated

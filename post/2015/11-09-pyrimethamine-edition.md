@@ -15,7 +15,7 @@ Furthermore the map *'Haze'* has been added alongside various cleanups and impro
 
 As usually you can obtain the release [from GitHub](https://github.com/inexor-game/code/releases/tag/0.4.0-alpha), where you can find a full changelog as well.
 
-Please report any bug or strange behavoir on IRC or GitHub.
+Please report any bug or strange behavior on IRC or GitHub.
 
 
 #### What have we got next?
@@ -29,7 +29,7 @@ Since we are still in planning phase additional info resides in the [following p
 
 
 #### News from the build frontier
-Unfortanly a propper build and testing pipeline is hard to build, but we're making great success lately
+Unfortunately a proper build and testing pipeline is hard to build, but we're making great success lately
 
 - Thanks to 'Obstriegel' we now provision an own Jenkins
 - Nooby lately shows great efforts to establish a Travis-CI based packaging for OSX, stay tuned!
@@ -39,12 +39,12 @@ Up next we'd like to cheer out that Inexor is officially participating in the [L
 
 
 ### And where's the developer stuff?
-Ofcourse this shouldn't be missed out in my report. 
+Of course this shouldn't be missed out in my report.
 
 Inexor is currently in a phase moving from base refactories to new, exciting features. So far we have
 
 - Done a huge refactoring on the entire structure of Sauerbraten
-- Replaced various custom implementations with their standard derivates (ie, custom vectors or RNG)
+- Replaced various custom implementations with their standard derivatives (ie, custom vectors or RNG)
 - Aligned Sauerbraten to Tesseract, which brings SDL2 and other new improvements
 - Adjusted Sauerbraten's documentation with Doxygen, which brings automated documentation
 - Removed almost all hardcoded variables with configurable ones

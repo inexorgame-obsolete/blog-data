@@ -23,8 +23,8 @@ We use Git now, as it is developed to allow as much productivity for teams as po
  
 So the build system has to work with various people working in parallel. This is pretty rough for a static build-structure (e.g. adding a file, a dependency, or whatever costs a lot of nerves merging it back again).  
 That's one of the reasons CMake came into play:
-It allowes to generate all project files / make files or whatever on the fly.
-Take for example: you add a new file to the codebase: You do not need to modify project files for all platforms, making developement much more comfortable. 
+It allows to generate all project files / make files or whatever on the fly.
+Take for example: you add a new file to the codebase: You do not need to modify project files for all platforms, making developement much more comfortable.
 _(If you add a new file to one of the existing modules/folders it even gets automatically added to the projects)_
 
 So what is the downside you ask? 
@@ -88,7 +88,7 @@ However: In the next passage you will see that the doors are not completely clos
 ### **(IPC) JavaScript Implementation**
 
 JavaScript is much more widely spoken than CubeScript, easier to write, and most of the time more intuative (since CubeScript is a stack-oriented language).
-We also chose it since we plan to provide some pretty powerful scripting (e.g. story modes or maps could act a lot more dynamicly than they currently do) 
+We also chose it since we plan to provide some pretty powerful scripting (e.g. story modes or maps could act a lot more dynamically than they currently do)
 
 So how did we implement this and how did it change the current behaviour?
 We decided to outsource it to another engine: [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs), and let it call CubeScript commands!
