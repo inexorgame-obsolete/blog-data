@@ -18,12 +18,12 @@ We would like to shout out a big thank you to shackspace.
 
 Without you guys, this meeting probably wouldn't have been possible, and the room and people created an atmosphere that was almost magic, literally inviting anyone to work on our project.
 
-![shackspace](https://scontent-frt3-1.cdninstagram.com/hphotos-xpf1/t51.2885-15/e35/12362163_998540253525753_1623989523_n.jpg)
+![shackspace](https://inexor-game.github.io/blog-media/2015/12/shackspace.jpg)
 
 #### Public awareness
 Another point that we're very happy with is the audience of local hackers who discovered us via [the shackspace blog (German)](http://shackspace.de/?p=5228).
 
-Unfortunately nobody brought a camera along for the presentation, which is why we can only [share the slides with you](https://www.adrive.com/public/4Vxjrv/slides-hackathon2015.html).
+Unfortunately nobody brought a camera along for the presentation, which is why we can only [share the slides with you](https://inexor-game.github.io/blog-media/2015/12/slides-hackathon2015.html).
 
 #### Simplify things
 A problem that has often occurred to us, is a growing complexity in issue trackers and wiki organization.
@@ -52,4 +52,4 @@ Thanks everyone for the enjoyable weekend. It has shown us once again that a phi
 
 We have came across a funny new motto: [**"Use the fork luke!"**](https://octodex.github.com/images/octobiwan.jpg)
 
-If you are re wondering what a *fork-drink* would look like, [here is the answer](http://cube2load.tk/12388090_906357489459889_1934928475_n.jpg).
+If you are re wondering what a *fork-drink* would look like, [here is the answer](https://inexor-game.github.io/blog-media/2015/12/forkdrink.jpg).

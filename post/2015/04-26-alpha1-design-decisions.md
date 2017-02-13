@@ -45,7 +45,7 @@ _Why did we do this?_
 **We want to make Inexor (in comparison to Sauerbraten) completely free/libre.** Mostly of course because of our belief in free software, but if you want more concrete benefits:
 
 -	The quality of contents will improve 
--	(e.g. it was disallowed to rework some stuff before due to their [licensing](https://github.com/inexor-game/data/wiki/License-Policy))
+-	(e.g. it was disallowed to rework some stuff before due to their [licensing](https://github.com/inexor-game/code/wiki/License-Policy))
 -	We have more options to publish Inexor if its really free/libre
 -	(necessary e.g. for providing it additionally on Steam or through the package managers of some Linux Distributions)
 -	It lets people fork the game easily, without having to replace the artwork
@@ -105,4 +105,4 @@ The alternative would have been to go for a firmly integrated JavaScript engine 
 -	It can easily be extended for other languages (though we do not officially plan to do so yet, but maybe a mod or plugin?)
 
 So you might want to sneak a peek at it if you're interested in developing with JavaScript.  
-That's about it at the moment. There can be some more controversial points, but if further questions appear: You will always find us in [#inexor on gamesurge.net](http://irc.lc/gamesurge/inexor)!
+That's about it at the moment. There can be some more controversial points, but if further questions appear: You will always find us in [#inexor on freenode.net](https://webchat.freenode.net/?channels=#inexor)!
