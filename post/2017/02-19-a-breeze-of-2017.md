@@ -18,14 +18,13 @@ We have kept modifying Inexor to be more modable and flexible, which in turn led
 *  =>  plugin system
 *  =>  command line interface
 * Created the [InexorTree](https://github.com/inexor-game/code/wiki/Inexor-Tree) API
-*  =>  Automatic synchronization of nodes from InexorCore to InexorFlex and vice versa
-including:
-*  =>  Lists (SharedLists)
-*  =>  Classes as directories in the Tree (inheriting from a common base class)
-*  =>  Functions (SharedFunction)
-*  =>  and usual variables (SharedVar)
+*  =>  Automatic synchronization of nodes from InexorCore to InexorFlex and vice versa including:
+*  ==>  Lists (SharedLists)
+*  ==>  Classes as directories in the Tree (inheriting from a common base class)
+*  ==>  Functions (SharedFunction)
+*  ==>  and usual variables (SharedVar)
 *  =>  on Flex side you `listen` to nodes
-*  =>  you get signaled if that node changed
+*  ==>  you get signaled if that node changed
 * Porting our dependency managment to [Conan](https://www.conan.io)
 * [Fixed several bugs](https://github.com/inexor-game/code/pull/350) with the ingame HTML rendering
 
@@ -40,7 +39,7 @@ We switched our IRC channel from Gamesurge to Freenode. You can found us now at
 
 * [__#inexor__ on chat.freenode.net](https://webchat.freenode.net/?channels=#inexor)
 
-**or** on our new channel on Riot.im (**recommeded**):
+**or** on our new channel on Riot.im **(recommeded)**:
 
 * [Riot.im #inexor](https://riot.im/app/#/room/#inexor:matrix.org)
 
