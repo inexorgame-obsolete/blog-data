@@ -13,21 +13,21 @@ This post will start to explain a few changes we did implement last year and con
 ## What happened with Inexor?
 We have kept modifying Inexor to be more modable and flexible, which in turn led to many changes and additions to the [overall architecture](https://github.com/inexor-game/code/wiki/Overall-Architecture) e.g.:
 
-  * Implemented [InexorFlex](https://github.com/inexor-game/code/wiki/Inexor-Flex)    
-    * our scripting side
-    * plugin system
-    * command line interface
-  * Created the [InexorTree](https://github.com/inexor-game/code/wiki/Inexor-Tree) API
-    * Automatic synchronization of nodes from InexorCore to InexorFlex and vice versa
+* Implemented [InexorFlex](https://github.com/inexor-game/code/wiki/Inexor-Flex)
+*  =>  our scripting side
+*  =>  plugin system
+*  =>  command line interface
+* Created the [InexorTree](https://github.com/inexor-game/code/wiki/Inexor-Tree) API
+*  =>  Automatic synchronization of nodes from InexorCore to InexorFlex and vice versa
 including:
-      * Lists (SharedLists)
-      * Classes as directories in the Tree (inheriting from a common base class)
-      * Functions (SharedFunction)
-      * and usual variables (SharedVar)
-    * on Flex side you `listen` to nodes
-       * you get signaled if that node changed
-  * porting our dependency managment to [Conan](https://www.conan.io)
-  * [fixed several bugs](https://github.com/inexor-game/code/pull/350) with the ingame HTML rendering
+*  =>  Lists (SharedLists)
+*  =>  Classes as directories in the Tree (inheriting from a common base class)
+*  =>  Functions (SharedFunction)
+*  =>  and usual variables (SharedVar)
+*  =>  on Flex side you `listen` to nodes
+*  =>  you get signaled if that node changed
+* Porting our dependency managment to [Conan](https://www.conan.io)
+* [Fixed several bugs](https://github.com/inexor-game/code/pull/350) with the ingame HTML rendering
 
 
 ## Changes to our infrastructure
@@ -38,11 +38,11 @@ Furthermore our website is now hosted at Uberspace.
 ## Communication
 We switched our IRC channel from Gamesurge to Freenode. You can found us now at
 
-  * [__#inexor__ on chat.freenode.net](https://webchat.freenode.net/?channels=#inexor)
+* [__#inexor__ on chat.freenode.net](https://webchat.freenode.net/?channels=#inexor)
 
 **or** on our new channel on Riot.im (**recommeded**):
 
-  * [Riot.im #inexor](https://riot.im/app/#/room/#inexor:matrix.org)
+* [Riot.im #inexor](https://riot.im/app/#/room/#inexor:matrix.org)
 
 Riot is a [Matrix](http://matrix.org/) client, so you can connect to #inexor:matrix.org with every compatible Matrix client. Therefore there are now more possibilites to chat with us as before. Both rooms are getting synced so nobody is missing something. We are recommending Riot since it is eliminating the need for a bouncer and has more features than IRC like file uploads and voice chats.
 
@@ -58,17 +58,17 @@ If you like our overall ideas and vision for the game we would like to hear from
 ## How you can help
 Things are getting really fast recently, but there are still a lot of things which need to be done. So, what you can do is:
 
-  * [help us test](https://github.com/inexor-game/code/wiki/Build)
-  * help us [fix and maintain](https://github.com/inexor-game/code/issues?q=cef+is%3Aopen) the CEF integration
-  * getting involved in an experimental [rewriting of the website](https://github.com/inexor-game/site)
-  * some other things, [check the issue ticker](https://github.com/inexor-game/code/issues?utf8=✓&q=is%3Aopen)
-  * [anything you would like to see in Inexor!](https://github.com/inexor-game/code#join-us)
-  * Check if you find wrong/outdated/questionable content and let us know
-  * Spread the word about Inexor!
-    * Write an article
-    * Backlink us
-    * Tell your class mates, gamer friends and developer fellows
-  * Send a mail to mailing lists that care about FLOSS
+* [help us test](https://github.com/inexor-game/code/wiki/Build)
+* help us [fix and maintain](https://github.com/inexor-game/code/issues?q=cef+is%3Aopen) the CEF integration
+* getting involved in an experimental [rewriting of the website](https://github.com/inexor-game/site)
+* some other things, [check the issue ticker](https://github.com/inexor-game/code/issues?utf8=✓&q=is%3Aopen)
+* [anything you would like to see in Inexor!](https://github.com/inexor-game/code#join-us)
+* Check if you find wrong/outdated/questionable content and let us know
+* Spread the word about Inexor!
+*  =>  Write an article
+*  =>  Backlink us
+*  =>  Tell your class mates, gamer friends and developer fellows
+*  =>  Send a mail to mailing lists that care about FLOSS
 
 
 ## Hackathon 2017
