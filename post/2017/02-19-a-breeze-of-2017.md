@@ -11,13 +11,13 @@ This post will start to explain a few changes we did implement last year and con
 
 
 ## What happened with Inexor?
-We have kept modifying Inexor to be more modable and flexible, which in turn led to many changes and additions to the [overall architecture](https://github.com/inexor-game/code/wiki/Overall-Architecture) e.g.:
+We have kept modifying Inexor to be more modable and flexible, which in turn led to many changes and additions to the [overall architecture](https://github.com/inexorgame/code/wiki/Overall-Architecture) e.g.:
 
-* Implemented [InexorFlex](https://github.com/inexor-game/code/wiki/Inexor-Flex)
+* Implemented [InexorFlex](https://github.com/inexorgame/code/wiki/Inexor-Flex)
 *  =>  our scripting side
 *  =>  plugin system
 *  =>  command line interface
-* Created the [InexorTree](https://github.com/inexor-game/code/wiki/Inexor-Tree) API
+* Created the [InexorTree](https://github.com/inexorgame/code/wiki/Inexor-Tree) API
 *  =>  Automatic synchronization of nodes from InexorCore to InexorFlex and vice versa including:
 *  ==>  Lists (SharedLists)
 *  ==>  Classes as directories in the Tree (inheriting from a common base class)
@@ -26,7 +26,7 @@ We have kept modifying Inexor to be more modable and flexible, which in turn led
 *  =>  on Flex side you `listen` to nodes
 *  ==>  you get signaled if that node changed
 * Porting our dependency managment to [Conan](https://www.conan.io)
-* [Fixed several bugs](https://github.com/inexor-game/code/pull/350) with the ingame HTML rendering
+* [Fixed several bugs](https://github.com/inexorgame/code/pull/350) with the ingame HTML rendering
 
 
 ## Changes to our infrastructure
@@ -57,11 +57,11 @@ If you like our overall ideas and vision for the game we would like to hear from
 ## How you can help
 Things are getting really fast recently, but there are still a lot of things which need to be done. So, what you can do is:
 
-* [help us test](https://github.com/inexor-game/code/wiki/Build)
-* help us [fix and maintain](https://github.com/inexor-game/code/issues?q=cef+is%3Aopen) the CEF integration
-* getting involved in an experimental [rewriting of the website](https://github.com/inexor-game/site)
-* some other things, [check the issue ticker](https://github.com/inexor-game/code/issues?utf8=✓&q=is%3Aopen)
-* [anything you would like to see in Inexor!](https://github.com/inexor-game/code#join-us)
+* [help us test](https://github.com/inexorgame/code/wiki/Build)
+* help us [fix and maintain](https://github.com/inexorgame/code/issues?q=cef+is%3Aopen) the CEF integration
+* getting involved in an experimental [rewriting of the website](https://github.com/inexorgame/site)
+* some other things, [check the issue ticker](https://github.com/inexorgame/code/issues?utf8=✓&q=is%3Aopen)
+* [anything you would like to see in Inexor!](https://github.com/inexorgame/code#join-us)
 * Check if you find wrong/outdated/questionable content and let us know
 * Spread the word about Inexor!
 *  =>  Write an article

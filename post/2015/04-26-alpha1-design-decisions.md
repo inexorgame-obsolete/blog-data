@@ -36,7 +36,7 @@ We decided that the upsides outweigh the downside at this point.
 
 ## **New Media Structure**
 
-As you may have noticed, we also changed the structure in which the [content](https://github.com/inexor-game/data/) is organised.
+As you may have noticed, we also changed the structure in which the [content](https://github.com/inexorgame/data/) is organised.
 We see that it could be more difficult to adopt content from Sauerbraten now.
 And you may also have been disappointed to notice that a lot of content has even been dropped completely.
 
@@ -45,7 +45,7 @@ _Why did we do this?_
 **We want to make Inexor (in comparison to Sauerbraten) completely free/libre.** Mostly of course because of our belief in free software, but if you want more concrete benefits:
 
 -	The quality of contents will improve 
--	(e.g. it was disallowed to rework some stuff before due to their [licensing](https://github.com/inexor-game/code/wiki/License-Policy))
+-	(e.g. it was disallowed to rework some stuff before due to their [licensing](https://github.com/inexorgame/code/wiki/License-Policy))
 -	We have more options to publish Inexor if its really free/libre
 -	(necessary e.g. for providing it additionally on Steam or through the package managers of some Linux Distributions)
 -	It lets people fork the game easily, without having to replace the artwork
@@ -66,7 +66,7 @@ That, btw, is where JSON comes in to play:
 
 ## **JSON**
 
-In contrast to CubeScript, [JSON](https://github.com/inexor-game/code/wiki/JSON-Implementation) is used soley for saving data, not for executing stuff or scripting.
+In contrast to CubeScript, [JSON](https://github.com/inexorgame/code/wiki/JSON-Implementation) is used soley for saving data, not for executing stuff or scripting.
 It's used all over the web, simply because it's easy as hell.
 We want to slowly migrate all content, specifically stuff from .cfgs to .jsons.
 Although we just started converting existing content to load with json, (which is not yet included in this alpha), the API for it is set and pretty easy to use.
@@ -78,7 +78,7 @@ Therefore we'll need a powerful scripting language behind the scenes.
 Pretty few people speak CubeScript and we do not want to spend time improving it while there are other (better) solutions:
 
 So the task was to find another scripting language which provides as much as we need.
-We discussed this a lot and came to the conclusion to favor HTML5 ([for the UI](https://github.com/inexor-game/code/wiki/HTML5-User-Interface)) and JavaScript against competitors like Lua, Rust or Python.
+We discussed this a lot and came to the conclusion to favor HTML5 ([for the UI](https://github.com/inexorgame/code/wiki/HTML5-User-Interface)) and JavaScript against competitors like Lua, Rust or Python.
 Choosing the "right" language is always a hard task, as some developers have an almost religious state for such languages.
 
 So event though Lua is pretty popular among the Sauerbraten developer community, in most others it's not nearly as popular as JavaScript.

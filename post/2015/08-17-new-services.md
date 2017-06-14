@@ -8,7 +8,7 @@ summary:    The new services are online.
 
 It took me quite a while, but I'd like to announce the release of the new *Inexor* server, including the following services
 
-* A redesigned website including some [new features](https://github.com/inexor-game/blog/releases/tag/0.2)
+* A redesigned website including some [new features](https://github.com/inexorgame/blog/releases/tag/0.2)
 * [Community forum](https://community.inexor.org) (using NodeBB)
 * Our own [Etherpad](https://pad.inexor.org)
 * Server statistics via [Munin](http://monitor.inexor.org)
@@ -21,7 +21,7 @@ As soon as possible (on November 16) we will follow the *Let's Encrypt* movement
 As there hasn't been any apparent progress to the project I want to clean up the rumors about the current status of Inexor.
 We are about to release the 2nd release, so called *Ritalin Edition*, which will bring CEF support (HTML5 & Node) more or less quickly.
 There's still need to properly build binaries for Linux and to maintain an OSX build.
-This is up to anyone who is able to help, and we'd like to encourage **you** to contribute at [GitHub](https://github.com/inexor-game/code).
+This is up to anyone who is able to help, and we'd like to encourage **you** to contribute at [GitHub](https://github.com/inexorgame/code).
 Despite the build dependency issues we finally reached a point at which we have built a solid foundation for Inexor as a standalone fork.
 
 ### What's currently being worked on
@@ -29,7 +29,7 @@ We are working also on many new features directly for the players, a few example
 
 * A HTML5 based new UI
 * Completely customizable client (via JavaScript)
-* [New sound system](https://github.com/inexor-game/code/issues/205)
+* [New sound system](https://github.com/inexorgame/code/issues/205)
 
 
 Additionally I *(personally)* am working on a refactored masterserver, featuring global authentication with the following goals

@@ -12,12 +12,12 @@ The new release brings, for instance, an improved version of Ambient Occlusion. 
 
 In addition to that, we have re-added the old masterserver with a few adjustments as a temporary solution. More improvements regarding servers includes, for example, that players with a modified map are getting spectated (toggleable in the settings), a command line option to use another path for the config file, and the server command *mapmode -map- -mode-*.
 
-On top of that, we are starting our Node.js integration now by default with the client and [we decided to start with an implementation](https://github.com/inexor-game/code/pull/291) of a web server + UI all over again.
+On top of that, we are starting our Node.js integration now by default with the client and [we decided to start with an implementation](https://github.com/inexorgame/code/pull/291) of a web server + UI all over again.
 
 We also fixed a potential crash, if one is trying to load a map with non-existing textures. 
 
-Windows users can, as always, download the latest release [from GitHub](https://github.com/inexor-game/code/releases).
+Windows users can, as always, download the latest release [from GitHub](https://github.com/inexorgame/code/releases).
 
 Please test Inexor, report us bugs and give us feedback. Your feedback can have an huge impact on the development of the game. Do not miss this chance. 
 
-The full changelog can be found [here](https://github.com/inexor-game/code/blob/master/changelog.md#doxylamine-alpha-edition-v060-alpha-2016-03-06).
+The full changelog can be found [here](https://github.com/inexorgame/code/blob/master/changelog.md#doxylamine-alpha-edition-v060-alpha-2016-03-06).

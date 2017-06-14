@@ -1,12 +1,12 @@
 # Blog Data
 This repository contains all Markdown files served as blog posts on [our homepage](https://inexor.org) and further content.
-Binary files for posts like images should be stored [here](https://github.com/inexor-game/blog-media). You can link to the file via https://inexor-game.github.io/blog-media/.
+Binary files for posts like images should be stored [here](https://github.com/inexorgame/blog-media). You can link to the file via https://inexorgame.github.io/blog-media/.
 
 # Contribution guidelines
 Following are contribution guidelines:
 
  * All text postings must be licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
- * Additional content like images may have any license allowed by our [license policy](https://github.com/inexor-game/data/wiki/License-Policy). 
+ * Additional content like images may have any license allowed by our [license policy](https://github.com/inexorgame/data/wiki/License-Policy). 
  * Use [Standard English](http://en.wikipedia.org/wiki/Standard_written_English) and [appropriate language](https://owl.english.purdue.edu/owl/resource/608/01/) for your posts
    * be professional
    * no superlatives
