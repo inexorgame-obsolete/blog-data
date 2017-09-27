@@ -43,7 +43,7 @@ With the mentioned technology stack, we expect to add new features rapidly to th
 You don't necessarily. The v0.9 will also bring a Windows installer, getting you settled in 10 minutes! :rocket:
 
 #### Alright. Shut up, take my money. When will this awesomeness come?
-We will make a live release to showcase the system at the Hackathon. So, expect the release to be ready on September 23, 4pm.
+We will make a live release to showcase the system at the Hackathon. So, expect the release to be ready on October 7, 4pm.
 There will be a dedicated blog post that covers the new release more in-depth, of course.
 
 
