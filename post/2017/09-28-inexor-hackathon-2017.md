@@ -82,7 +82,7 @@ You'd like to learn coding but no idea what to do first?
     - and many other technologies
 - musicians, designers, authors, artists of any kinds
     - we would love to create content for the Inexor story at the Hackathon!
-    - possibly we will bring recording equipment
+    - ~~possibly we will bring recording equipment~~
 - teachers, students (school or university)
 - Inexor developers, users, content creators (...)
 - really, everyone
@@ -138,7 +138,7 @@ The full package will include
 - pro/rata price of a Tuebingen weekend-ticket
 - an "inexorable" t-shirt
 
-You must not acquire any of the above, however, if you wish to stay with us during the weekend, it is highly recommended to at least have a reservation for the tent.
+You must not acquire any of the above, however, if you wish to stay with us during the weekend, it is highly recommended to at least have a reservation for the our accommodation.
 Please contact us via `info at inexor.org` with the following details
 
 - your name
