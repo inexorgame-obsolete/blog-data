@@ -5,8 +5,8 @@ Binary files for posts like images should be stored [here](https://github.com/in
 # Contribution guidelines
 Following are contribution guidelines:
 
- * All text postings must be licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
- * Additional content like images may have any license allowed by our [license policy](https://github.com/inexorgame/data/wiki/License-Policy). 
+ * All text postings must be licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+ * Additional content like images may have any license allowed by our [license policy](https://github.com/inexorgame/inexor-core/wiki/License-Policy). 
  * Use [Standard English](http://en.wikipedia.org/wiki/Standard_written_English) and [appropriate language](https://owl.english.purdue.edu/owl/resource/608/01/) for your posts
    * be professional
    * no superlatives

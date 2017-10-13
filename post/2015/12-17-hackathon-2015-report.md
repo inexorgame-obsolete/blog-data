@@ -37,14 +37,14 @@ Furthermore we decided to force our *Code of Conduct* for **contributions** *as 
 #### Awesome new technologies
 I'm very briefly going to talk about this one. As we've discussed hundred of visionary features, this roughly cuts the edge
 
-* [a 3D visual scripting engine](https://github.com/inexorgame/code/tree/hanni/3DVisualScripting)
-* [Inexor Tree API](https://github.com/inexorgame/code/wiki/Inexor-Tree-API)
-* [Version Control System for maps](https://github.com/inexorgame/code/wiki/Version-Control-System)
-* a [better map format](https://github.com/inexorgame/code/wiki/Blueprint-Extendable-map-format)
-* [refactored source structure](https://github.com/inexorgame/code/pull/249)
-* [speed up the AppVeyor build process enormously](https://github.com/inexorgame/code/pull/252)
-* [Merged all the latest stuff from Sauerbraten](https://github.com/inexorgame/code/pull/252)
-* added a fix so Inexor [can compile with recent GCC 5.3](https://github.com/inexorgame/code/pull/253), [and newer libCEF branches](https://github.com/inexorgame/code/issues/271)
+* [a 3D visual scripting engine](https://github.com/inexorgame/inexor-core/tree/hanni/3DVisualScripting)
+* [Inexor Tree API](https://github.com/inexorgame/inexor-core/wiki/Inexor-Tree-API)
+* [Version Control System for maps](https://github.com/inexorgame/inexor-core/wiki/Version-Control-System)
+* a [better map format](https://github.com/inexorgame/inexor-core/wiki/Blueprint-Extendable-map-format)
+* [refactored source structure](https://github.com/inexorgame/inexor-core/pull/249)
+* [speed up the AppVeyor build process enormously](https://github.com/inexorgame/inexor-core/pull/252)
+* [Merged all the latest stuff from Sauerbraten](https://github.com/inexorgame/inexor-core/pull/252)
+* added a fix so Inexor [can compile with recent GCC 5.3](https://github.com/inexorgame/inexor-core/pull/253), [and newer libCEF branches](https://github.com/inexorgame/inexor-core/issues/271)
 
 
 #### post-scriptum

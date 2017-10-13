@@ -13,7 +13,7 @@ Firstly, and most importantly, we officially released the __Pyrimethamine Editio
 Notably, we've added support for prefabs, including an UI, and enhanced the console, so you're able to cycle back and forth now.
 Furthermore the map *'Haze'* has been added alongside various cleanups and improvements in our media.
 
-As usually you can obtain the release [from GitHub](https://github.com/inexorgame/code/releases/tag/0.4.0-alpha), where you can find a full changelog as well.
+As usually you can obtain the release [from GitHub](https://github.com/inexorgame/inexor-core/releases/tag/0.4.0-alpha), where you can find a full changelog as well.
 
 Please report any bug or strange behavior on IRC or GitHub.
 

@@ -29,7 +29,7 @@ We are working also on many new features directly for the players, a few example
 
 * A HTML5 based new UI
 * Completely customizable client (via JavaScript)
-* [New sound system](https://github.com/inexorgame/code/issues/205)
+* [New sound system](https://github.com/inexorgame/inexor-core/issues/205)
 
 
 Additionally I *(personally)* am working on a refactored masterserver, featuring global authentication with the following goals
