@@ -6,9 +6,7 @@ author:     Nooby
 summary:    Our Hackathon 2017 is over - a look back and into the future.
 ---
 
-# Hackathon 2017 report
-
-<img src="https://inexorgame.github.io/blog-media/2017/10/hackathon-banner.png" style="background-color: gray;">
+<img src="https://inexorgame.github.io/blog-media/2017/10/hackathon-banner.png">
 
 <br><br>
 
