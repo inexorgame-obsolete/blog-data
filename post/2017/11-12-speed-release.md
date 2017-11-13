@@ -45,7 +45,7 @@ It is pretty new, so we had to create packages for a lot of dependencies ourself
 
 ---
 
-This was only a very brief fragment of our [changelog](https://github.com/inexorgame/inexor-core/blob/master/changelog.md).
+This was only a very brief fragment of our [changelog](https://github.com/inexorgame/inexor-core/blob/0.9.0%40beta/changelog.md).
 We haven't been releasing for more than a year.
 We broke a lot of old designs and wired it back together, it was intense.
 
