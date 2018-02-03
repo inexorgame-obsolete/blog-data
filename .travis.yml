@@ -11,5 +11,4 @@ cache:
     
 
 
-jobs:
-    script: ./spellcheck.sh
+script: ./spellcheck.sh
