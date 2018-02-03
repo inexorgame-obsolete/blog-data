@@ -1,18 +1,16 @@
 #!/bin/bash
 
 # gets a list of files that have been commited and have .md as a substr
-files=$(git diff --cached --name-only | egrep .md)
+files=$(git diff --name-only HEAD | egrep .md)
 
 # for each file, run spellcheck
 for file in $files
     do
-        echo "file: " $file
-        echo result=$(spellchecker -f $file -d local-dictionary.txt -l en-US)
+        spellchecker -f $file -d local-dictionary.txt -l en-US
     done
 
  # parse through the result to check if it passed or failed
  # if the keywork "warnings" is found, then exit failure
 
-spellchecker -f test.md -d local-dictionary.txt -l en-US
 
 exit 1
