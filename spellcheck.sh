@@ -13,10 +13,6 @@ for file in $files
  # parse through the result to check if it passed or failed
  # if the keywork "warnings" is found, then exit failure
 
-if echo "warning" | grep -q "$result"; then
-    echo "matched";
-else
-    echo "no match";
-fi
+echo spellchecker -f test.md -d local-dictionary.txt -l en-US
 
 exit 1
