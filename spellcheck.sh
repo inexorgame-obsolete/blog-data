@@ -18,3 +18,5 @@ if echo "warning" | grep -q "$result"; then
 else
     echo "no match";
 fi
+
+exit 1
