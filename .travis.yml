@@ -2,7 +2,7 @@ language: node_js
 node_js:
     - "8"
 
-before_install:
+install:
     - npm i -g spellchecker-cli # installs spellchecker
 
 cache:
@@ -12,4 +12,5 @@ cache:
 
 
 jobs:
-    script: ./spellcheck.sh
+    script: 
+        - ./spellcheck.sh
