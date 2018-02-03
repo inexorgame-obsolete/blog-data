@@ -11,4 +11,4 @@ cache:
     
 
 
-script: ./spellcheck.sh
+script: ./spellcheck.sh # runs script to check spelling
