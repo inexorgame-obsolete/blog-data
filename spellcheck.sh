@@ -13,6 +13,6 @@ for file in $files
  # parse through the result to check if it passed or failed
  # if the keywork "warnings" is found, then exit failure
 
-echo spellchecker -f test.md -d local-dictionary.txt -l en-US
+spellchecker -f test.md -d local-dictionary.txt -l en-US
 
 exit 1
