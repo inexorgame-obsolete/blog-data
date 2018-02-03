@@ -10,14 +10,14 @@ summary:    This is a short summary about the post.
 
 # Proper Names
 
-Please write proper names in their offical version (case sensitive!). For instance it is:
+Please write proper names in their official version (case sensitive!). For instance it is:
  * Inexor (not: inexor)
  * Sauerbraten (not: sauer)
  * Cube 2: Sauerbraten (not cube2: sauerbraten)
  * GitHub (not: Github)
  * Windows (not: windows, except you talking about these things where the sun is shining through :)
  * CMake (not: Cmake)
- 
+
 and so on...
 
 
@@ -37,7 +37,7 @@ _This is cursive_
 It's all valid Markdown, so there are more format possibilities. Check out some Markdown tutorials!
 
 Whenever you write a post, make sure that you don't forget the meta at top within the file.
-Please make also sure you have an newline after the meta and at the end of the file.
+Please make also sure you have a newline after the meta and at the end of the file.
 
 
 
