@@ -1,4 +1,4 @@
-inexor-website
+Inexor-website
 vue-router
 vue-loader
 HTML5
@@ -9,22 +9,19 @@ makefile
 JSON
 UI
 V8
-osx
-css
-css3
+macOS
+CSS
+CSS3
 hackathon
 Hackathon
 config
 3D
-json
 inexor
-ie
+IE
 Inexor-Flex
-inexor-flex
 InexorFlex
 InexorCore
 Inexor-Core
-inexor-core
 npm
 navbar
 
