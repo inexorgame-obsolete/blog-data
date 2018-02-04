@@ -13,8 +13,10 @@ echo "$result"
 # if the result has a warning substr, then failure
 if [[ $result = *"warning"* ]]
 then
-    printf "\nfile: $file failed spellcheck\n"
+    printf "\n\e[31mFailed Spellcheck\e[0m\n"
     exit 1
 fi
+
+printf "\n\e[32mPassed Spellcheck\e[0m\n"
 
 exit 0
