@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # gets a list of all files with .md substr
-files=$(git ls-files | egrep .md)
-
+files=$(git ls-files | git ls-files | egrep .md | grep -v "post-example.md")
+echo $files
 
 # run spellcheck
 result=$(spellchecker -f $files -d local-dictionary.txt -l en-US)
