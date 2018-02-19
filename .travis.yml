@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+    - "8"
+
+install:
+    - npm i -g spellchecker-cli # installs spellchecker
+
+cache:
+    directories:
+        - "node_modules"
+    
+
+
+script: ./spellcheck.sh # runs script to check spelling
