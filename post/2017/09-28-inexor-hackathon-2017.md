@@ -30,7 +30,7 @@ You've heard it right. Starting with v0.9 release, every closed pull request (th
 
 - /remove/update the instances that you would like to start (client or server)
 - manage content repositories and update them automatically
-- manage [inexor-core](https://github.com/inexorgame/inexor-core) releases and update them automatically
+- manage [Inexor Core](https://github.com/inexorgame/inexor-core) releases and update them automatically
 - use [TOML](https://github.com/toml-lang/toml) configuration files instead of `.cfg`s to configure your client
 - edit the [Inexor Tree](https://github.com/inexorgame/inexor-core/wiki/Inexor-Tree) in real time
 
@@ -150,7 +150,7 @@ The expected ticket price should be something between 25 and 35 Euro, but we try
 
 
 ### Sign up
-The signup is not required, however, recommended (it's a good starting point for us, having a humble idea of how many people will join the Convention).
+The sign up is not required, however, recommended (it's a good starting point for us, having a humble idea of how many people will join the Convention).
 To sign up, simply add your name to the following [pad](https://hackmd.io/IwBgrATMAmwGwFoDMECmYEBZoSQghgGYBGmCxcE0SmqIAxvgBzFA), alongside the dates you will visit the Hackathon.
 
 

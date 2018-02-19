@@ -13,11 +13,11 @@ This post will start to explain a few changes we did implement last year and con
 ## What happened with Inexor?
 We have kept modifying Inexor to be more modable and flexible, which in turn led to many changes and additions to the [overall architecture](https://github.com/inexorgame/inexor-core/wiki/Overall-Architecture) e.g.:
 
-* Implemented [InexorFlex](https://github.com/inexorgame/inexor-core/wiki/Inexor-Flex)
+* Implemented [Inexor Flex](https://github.com/inexorgame/inexor-core/wiki/Inexor-Flex)
 *  =>  our scripting side
 *  =>  plugin system
 *  =>  command line interface
-* Created the [InexorTree](https://github.com/inexorgame/inexor-core/wiki/Inexor-Tree) API
+* Created the [Inexor Tree](https://github.com/inexorgame/inexor-core/wiki/Inexor-Tree) API
 *  =>  Automatic synchronization of nodes from InexorCore to InexorFlex and vice versa including:
 *  ==>  Lists (SharedLists)
 *  ==>  Classes as directories in the Tree (inheriting from a common base class)

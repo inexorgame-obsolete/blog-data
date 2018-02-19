@@ -1,13 +1,14 @@
 Inexor
 Sauerbraten
-Inexor-Flex
-InexorFlex
-InexorCore
-Inexor-Core
+Inexor Flex
+Inexor Core
+Inexor Tree
+ui-flex
+inexorgame
 Hackathon
 CubeScript
 Tesseract
-ui-flex
+
 
 changelog
 codebase
@@ -45,6 +46,7 @@ SpiderMonkey
 IPC
 NodeBB
 Etherpad
+Etherpads
 Notifico
 SSL
 CEF
@@ -69,6 +71,9 @@ rata
 ok
 impro
 performant
+scriptum
+de facto
+
 
 Tuebingen
 Tübingen
@@ -90,3 +95,4 @@ Hanack
 Fohlen
 Misan
 mapc
+Obstriegel

@@ -13,7 +13,7 @@ An entire weekend went past, and we didn't share anything with you. **That's rou
 
 We will try to summarize that quickly.
 
-#### Acknowledgement to the shackspace
+#### Acknowledgment to the shackspace
 We would like to shout out a big thank you to shackspace.
 
 Without you guys, this meeting probably wouldn't have been possible, and the room and people created an atmosphere that was almost magic, literally inviting anyone to work on our project.
@@ -50,6 +50,6 @@ I'm very briefly going to talk about this one. As we've discussed hundred of vis
 #### post scriptum
 Thanks everyone for the enjoyable weekend. It has shown us once again that a philosophy of open-minded development leads towards the best team atmosphere one can imagining.
 
-We have came across a funny new motto: [**"Use the fork luke!"**](https://octodex.github.com/images/octobiwan.jpg)
+We have came across a funny new motto: [**"Use the fork Luke!"**](https://octodex.github.com/images/octobiwan.jpg)
 
 If you are re wondering what a *fork-drink* would look like, [here is the answer](https://inexorgame.github.io/blog-media/2015/12/forkdrink.jpg).

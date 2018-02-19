@@ -18,6 +18,6 @@ We also fixed a potential crash, if one is trying to load a map with non-existin
 
 Windows users can, as always, download the latest release [from GitHub](https://github.com/inexorgame/inexor-core/releases).
 
-Please test Inexor, report us bugs and give us feedback. Your feedback can have an huge impact on the development of the game. Do not miss this chance.
+Please test Inexor, report us bugs and give us feedback. Your feedback can have a huge impact on the development of the game. Do not miss this chance.
 
 The full changelog can be found [here](https://github.com/inexorgame/inexor-core/blob/master/changelog.md#doxylamine-alpha-edition-v060-alpha-2016-03-06).
