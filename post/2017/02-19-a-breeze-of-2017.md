@@ -18,7 +18,7 @@ We have kept modifying Inexor to be more modable and flexible, which in turn led
 *  =>  plugin system
 *  =>  command line interface
 * Created the [Inexor Tree](https://github.com/inexorgame/inexor-core/wiki/Inexor-Tree) API
-*  =>  Automatic synchronization of nodes from InexorCore to InexorFlex and vice versa including:
+*  =>  Automatic synchronization of nodes from Inexor Core to Inexor Flex and vice versa including:
 *  ==>  Lists (SharedLists)
 *  ==>  Classes as directories in the Tree (inheriting from a common base class)
 *  ==>  Functions (SharedFunction)
