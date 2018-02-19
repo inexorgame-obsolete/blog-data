@@ -30,7 +30,7 @@ A problem that has often occurred to us, is a growing complexity in issue tracke
 
 Having different sources for different projects is just fine, although this might utterly confuse strangers from outside.
 
-Because of that reason, we decided to simplify our wikis and issues. The central repository to file any bug or suggestion is now [inexorgame/code](https://github.com/inexorgame/code)
+Because of that reason, we decided to simplify our wikis and issues. The central repository to file any bug or suggestion is now [inexorgame/code](https://github.com/inexorgame/inexor-core)
 
 Furthermore we decided to force our *Code of Conduct* for **contributions** *as well as* **the IRC channel**.
 
@@ -47,7 +47,7 @@ I'm very briefly going to talk about this one. As we've discussed hundred of vis
 * added a fix so Inexor [can compile with recent GCC 5.3](https://github.com/inexorgame/inexor-core/pull/253), [and newer libCEF branches](https://github.com/inexorgame/inexor-core/issues/271)
 
 
-#### post-scriptum
+#### post scriptum
 Thanks everyone for the enjoyable weekend. It has shown us once again that a philosophy of open-minded development leads towards the best team atmosphere one can imagining.
 
 We have came across a funny new motto: [**"Use the fork luke!"**](https://octodex.github.com/images/octobiwan.jpg)

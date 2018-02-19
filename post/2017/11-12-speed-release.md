@@ -34,7 +34,7 @@ We are currently providing releases in the `alpha` channel, that's why it's @alp
 - edit the [Inexor Tree](https://github.com/inexorgame/inexor-core/wiki/Inexor-Tree) in real time
 
 
-All of the above (and [many many more things](https://github.com/inexorgame/inexor-core/blob/master/changelog.md)) can be done pretty easily either by
+All of the above (and [many more things](https://github.com/inexorgame/inexor-core/blob/master/changelog.md)) can be done pretty easily either by
 - using a feature-rich command line
 - using the flex UI right from your browser!
 
@@ -44,8 +44,8 @@ Software is nowadays organized in very tiny modules to ease reuse across differe
 This makes it possible to make features much faster by just using already written software.
 In C++ the idea of sharing software across project boundaries is not nearly as evolved as in competing languages.
 We had been searching for a long time for a **decent** dependency manager for C++.
-Conan.io to the rescue! With though-through abstractions and design, this is de-facto one of the most profitable technologies you can introduce to your C(++) projects!
-It is pretty new, so we had to create packages for a lot of dependencies ourself. The feature stack they provide still saved us a lot of time. And it will prove even more beneficial in the mid- and long-run.
+Conan.io to the rescue! With though-through abstractions and design, this is de facto one of the most profitable technologies you can introduce to your C(++) projects!
+It is pretty new, so we had to create packages for a lot of dependencies ourselves. The feature stack they provide still saved us a lot of time. And it will prove even more beneficial in the mid- and long-run.
 
 ---
 

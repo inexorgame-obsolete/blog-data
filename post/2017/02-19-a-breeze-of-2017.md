@@ -25,12 +25,12 @@ We have kept modifying Inexor to be more modable and flexible, which in turn led
 *  ==>  and usual variables (SharedVar)
 *  =>  on Flex side you `listen` to nodes
 *  ==>  you get signaled if that node changed
-* Porting our dependency managment to [Conan](https://www.conan.io)
+* Porting our dependency management to [Conan](https://www.conan.io)
 * [Fixed several bugs](https://github.com/inexorgame/inexor-core/pull/350) with the ingame HTML rendering
 
 
 ## Changes to our infrastructure
-There have been serveral outtakes of our server which leaded to most of the services beeing outsourced, e.g. our Etherpads for which we use now mostly [hackmd.io](https://hackmd.io/CYFhFYCYCMGYEYC0A2e9yJAYwKYENE4AOWRPHCABiz2AE5hLIg==#).
+There have been several outtakes of our server which leaded to most of the services being outsourced, e.g. our Etherpads for which we use now mostly [hackmd.io](https://hackmd.io/CYFhFYCYCMGYEYC0A2e9yJAYwKYENE4AOWRPHCABiz2AE5hLIg==#).
 Furthermore our website is now hosted at Uberspace.
 
 
@@ -43,7 +43,7 @@ We switched our IRC channel from Gamesurge to Freenode. You can found us now at
 
 * [Riot.im #inexor](https://riot.im/app/#/room/#inexor:matrix.org)
 
-Riot is a [Matrix](http://matrix.org/) client, so you can connect to #inexor:matrix.org with every compatible Matrix client. Therefore there are now more possibilites to chat with us as before. Both rooms are getting synced so nobody is missing something. We are recommending Riot since it is eliminating the need for a bouncer and has more features than IRC like file uploads and voice chats.
+Riot is a [Matrix](http://matrix.org/) client, so you can connect to #inexor:matrix.org with every compatible Matrix client. Therefore there are now more possibilities to chat with us as before. Both rooms are getting synced so nobody is missing something. We are recommending Riot since it is eliminating the need for a bouncer and has more features than IRC like file uploads and voice chats.
 
 
 ## The team
@@ -65,7 +65,7 @@ Things are getting really fast recently, but there are still a lot of things whi
 * Check if you find wrong/outdated/questionable content and let us know
 * Spread the word about Inexor!
 *  =>  Write an article
-*  =>  Backlink us
+*  =>  Link to us
 *  =>  Tell your class mates, gamer friends and developer fellows
 *  =>  Send a mail to mailing lists that care about FLOSS
 
@@ -73,7 +73,7 @@ Things are getting really fast recently, but there are still a lot of things whi
 ## Hackathon 2017
 We really loved our first [Hackathon](https://inexor.org/blog/2015/12-17-hackathon-2015-report) and it will not be the last.
 
-Right now we are planning the **Inexor Hackathon 2017**. It will be likely somewhen in Summer and in some southern area of Germany. As soon as we know more we will publish a standalone announcement. Thanks to Fohlen to push these plans forward!
+Right now we are planning the **Inexor Hackathon 2017**. It will be likely at some time in Summer and in some southern area of Germany. As soon as we know more we will publish a standalone announcement. Thanks to Fohlen to push these plans forward!
 
 Of course everyone will be welcomed at the Hackathon. No matter if you already contributed to Inexor or just like the project or just heard of us because of the Hackathon announcement. Last time we had a few new people just being curious who gave it a shot and we would love to see this repeating.
 

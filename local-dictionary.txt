@@ -6,14 +6,27 @@ InexorCore
 Inexor-Core
 Hackathon
 CubeScript
-
+Tesseract
+ui-flex
 
 changelog
 codebase
 hackerspace
+hackerspaces
+config
+pre-release
+hardcoded
+toggleable
+modable
+ingame
+RNG
 
-
+navbar
 getmap
+mapmode
+.cfgs
+.jsons
+
 
 CMake
 vue-router
@@ -38,21 +51,37 @@ CEF
 RPC
 libCEF
 TOML
+Lua
+Munin
+SDL2
+Doxygen
 
 
-config
+Aquarust
+Pyrimethamine
+Doxylamine
+
 3D
-navbar
 libre
-
+customizable
+nevermind
+rata
+ok
+impro
+performant
 
 Tuebingen
+Tübingen
 
-
+AppVeyor
+Uberspace
 Gamesurge
 Freenode
 FabLab
 shackspace
+Ulmer
+Straße
+
 
 
 Hanni
@@ -60,3 +89,4 @@ Nooby
 Hanack
 Fohlen
 Misan
+mapc

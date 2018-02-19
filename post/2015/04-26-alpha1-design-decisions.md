@@ -24,19 +24,19 @@ We use Git now, as it is developed to allow as much productivity for teams as po
 So the build system has to work with various people working in parallel. This is pretty rough for a static build-structure (e.g. adding a file, a dependency, or whatever costs a lot of nerves merging it back again).  
 That's one of the reasons CMake came into play:
 It allows to generate all project files / make files or whatever on the fly.
-Take for example: you add a new file to the codebase: You do not need to modify project files for all platforms, making developement much more comfortable.
+Take for example: you add a new file to the codebase: You do not need to modify project files for all platforms, making development much more comfortable.
 _(If you add a new file to one of the existing modules/folders it even gets automatically added to the projects)_
 
 So what is the downside you ask?
 Well.. Obviously CMake is needed as a dependency.
-Furthermore, you need to generate your buildchain after downloading before you can start developing (after doing it one or two times this won't bother you at all anymore, trust me).
+Furthermore, you need to generate your build chain after downloading before you can start developing (after doing it one or two times this won't bother you at all anymore, trust me).
 Another point is that the compilation on some platforms could consume a bit more time compared to Sauerbraten's (ultra-optimized) static projects. CMake adds a bit overhead here.
 
 We decided that the upsides outweigh the downside at this point.
 
 ## **New Media Structure**
 
-As you may have noticed, we also changed the structure in which the [content](https://github.com/inexorgame/media-essential/) is organised.
+As you may have noticed, we also changed the structure in which the [content](https://github.com/inexorgame/media-essential/) is organized.
 We see that it could be more difficult to adopt content from Sauerbraten now.
 And you may also have been disappointed to notice that a lot of content has even been dropped completely.
 
@@ -66,14 +66,14 @@ That, btw, is where JSON comes in to play:
 
 ## **JSON**
 
-In contrast to CubeScript, [JSON](https://github.com/inexorgame/inexor-core/wiki/JSON-Implementation) is used soley for saving data, not for executing stuff or scripting.
+In contrast to CubeScript, [JSON](https://github.com/inexorgame/inexor-core/wiki/JSON-Implementation) is used exclusively for saving data, not for executing stuff or scripting.
 It's used all over the web, simply because it's easy as hell.
 We want to slowly migrate all content, specifically stuff from .cfgs to .jsons.
-Although we just started converting existing content to load with json, (which is not yet included in this alpha), the API for it is set and pretty easy to use.
+Although we just started converting existing content to load with JSON, (which is not yet included in this alpha), the API for it is set and pretty easy to use.
 
 ## **Step back from CubeScript**
 
-We want to provide powerful scripting and attract people with a dynamic way of mapping (e.g. pave the way for new [multiplayer] story modes or gamemode scripting.. ).
+We want to provide powerful scripting and attract people with a dynamic way of mapping (e.g. pave the way for new [multiplayer] story modes or game mode scripting.. ).
 Therefore we'll need a powerful scripting language behind the scenes.
 Pretty few people speak CubeScript and we do not want to spend time improving it while there are other (better) solutions:
 
@@ -82,15 +82,15 @@ We discussed this a lot and came to the conclusion to favor HTML5 ([for the UI](
 Choosing the "right" language is always a hard task, as some developers have an almost religious state for such languages.
 
 So event though Lua is pretty popular among the Sauerbraten developer community, in most others it's not nearly as popular as JavaScript.
-We want to attract new developers, and getting them from a small community like Sauerbraten's shouldn't be our goal. Getting them from all over the interwebs should be.
+We want to attract new developers, and getting them from a small community like Sauerbraten's shouldn't be our goal. Getting them from all over the internet should be.
 However: In the next passage you will see that the doors are not completely closed for other scripting languages!
 
 ### **(IPC) JavaScript Implementation**
 
-JavaScript is much more widely spoken than CubeScript, easier to write, and most of the time more intuative (since CubeScript is a stack-oriented language).
+JavaScript is much more widely spoken than CubeScript, easier to write, and most of the time more intuitive (since CubeScript is a stack-oriented language).
 We also chose it since we plan to provide some pretty powerful scripting (e.g. story modes or maps could act a lot more dynamically than they currently do)
 
-So how did we implement this and how did it change the current behaviour?
+So how did we implement this and how did it change the current behavior?
 We decided to outsource it to another engine: [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs), and let it call CubeScript commands!
 (*Later on not CubeScript but a specialized API will be used..*)
 This is implemented through a system called "Inter Process Communication":

@@ -20,7 +20,7 @@ As soon as possible (on November 16) we will follow the *Let's Encrypt* movement
 ### Upcoming Inexor development
 As there hasn't been any apparent progress to the project I want to clean up the rumors about the current status of Inexor.
 We are about to release the 2nd release, so called *Ritalin Edition*, which will bring CEF support (HTML5 & Node) more or less quickly.
-There's still need to properly build binaries for Linux and to maintain an OSX build.
+There's still need to properly build binaries for Linux and to maintain an macOS build.
 This is up to anyone who is able to help, and we'd like to encourage **you** to contribute at [GitHub](https://github.com/inexorgame/code).
 Despite the build dependency issues we finally reached a point at which we have built a solid foundation for Inexor as a standalone fork.
 
@@ -32,8 +32,8 @@ We are working also on many new features directly for the players, a few example
 * [New sound system](https://github.com/inexorgame/inexor-core/issues/205)
 
 
-Additionally I *(personally)* am working on a refactored masterserver, featuring global authentication with the following goals
- 
+Additionally I *(personally)* am working on a refactored master server, featuring global authentication with the following goals
+
 * Creating a global authentication service
 * Additionally offer protection
 * Offer statistics using [Valve's server protocol](https://developer.valvesoftware.com/wiki/Server_queries).

@@ -48,7 +48,7 @@ You don't necessarily. The v0.9 will also bring a Windows installer, getting you
 
 
 #### Alright. Shut up, take my money. When will this awesomeness come?
-We will make a live release to showcase the system at the Hackathon. So, expect the release to be ready on October 7, 4pm.
+We will make a live release to showcase the system at the Hackathon. So, expect the release to be ready on October 7, 4 pm.
 There will be a dedicated blog post that covers the new release more in-depth, of course.
 
 
@@ -128,14 +128,14 @@ The below schedule is planned:
 ## How to sign up, the **package**
 There are generally two types of sign-ups
 - reservation, if you want to stay with us at the accommodation
-- signup, when you inform us that you will join the Hackathon
+- sign up, when you inform us that you will join the Hackathon
 
 
 ### The package
 The full package will include
 
 - reservation and ticket for our accommodation
-- pro/rata price of a Tuebingen weekend-ticket
+- pro rata price of a Tuebingen weekend-ticket
 - an "inexorable" t-shirt
 
 You must not acquire any of the above, however, if you wish to stay with us during the weekend, it is highly recommended to at least have a reservation for the our accommodation.
@@ -149,7 +149,7 @@ We will get in touch with you about payment options (usually PayPal).
 The expected ticket price should be something between 25 and 35 Euro, but we try to keep it as slim as possible.
 
 
-### Signup
+### Sign up
 The signup is not required, however, recommended (it's a good starting point for us, having a humble idea of how many people will join the Convention).
 To sign up, simply add your name to the following [pad](https://hackmd.io/IwBgrATMAmwGwFoDMECmYEBZoSQghgGYBGmCxcE0SmqIAxvgBzFA), alongside the dates you will visit the Hackathon.
 
@@ -176,7 +176,7 @@ Literally, the presentation forms allowed are
 
 - lightning talks
 - talks (maximum of 20 minutes)
-- workshops (40 minutes is ok)
+- workshops (40 minutes are ok)
 - podium discussion or impro 🐤
 
 If you would like to do one of the above, please give us a quick hint to `info at inexor.org` as well.

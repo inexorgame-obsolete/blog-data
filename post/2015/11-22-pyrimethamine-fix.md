@@ -7,7 +7,7 @@ summary:    We released Alpha 0.4.1 which is a fix for the"Pyrimethamine" Editio
 ---
 
 ## Pyrimethamine - Alpha 0.4.1
-Since there have been a bunch of issues with the current Pyrimethamine Edition, our team decided to release a fix version to adress them.
+Since there have been a bunch of issues with the current Pyrimethamine Edition, our team decided to release a fix version to address them.
 
 *Alpha 0.4.1* brings along the following enhancements
 

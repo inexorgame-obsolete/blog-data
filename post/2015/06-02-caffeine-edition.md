@@ -6,7 +6,7 @@ author:     Fohlen
 summary:    We released our first alpha version: The Caffeine Edition!
 ---
 
-Hello there. Finally the time has come to release the first alpha of Inexor. 
+Hello there. Finally the time has come to release the first alpha of Inexor.
 
 ### What's new?
 This very first release, so called _"Caffeine"_ Edition is targeted at developers and brings a whole bunch of new technology into the game.

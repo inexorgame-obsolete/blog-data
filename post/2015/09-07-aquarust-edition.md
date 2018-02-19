@@ -30,6 +30,6 @@ There's dozens of things to do, but there are a few preferences set:
 * Get CEF to run properly and design a GUI with it!
 * Enhance the RPC so we're able to script Inexor with ease.
 * Establish a way to send maps, configs, textures (...), together with a slightly new map format.
-* [Write a new masterserver](https://github.com/inexorgame/inexor-core/issues/20) and get it running.
+* [Write a new master server](https://github.com/inexorgame/inexor-core/issues/20) and get it running.
 
 If you feel like any of these match your skills, don't hesitate to join our forces!
