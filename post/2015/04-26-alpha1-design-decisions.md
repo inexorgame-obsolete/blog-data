@@ -105,4 +105,4 @@ The alternative would have been to go for a firmly integrated JavaScript engine 
 -	It can easily be extended for other languages (though we do not officially plan to do so yet, but maybe a mod or plugin?)
 
 So you might want to sneak a peek at it if you're interested in developing with JavaScript.  
-That's about it at the moment. There can be some more controversial points, but if further questions appear: You will always find us in [#inexor on freenode.net](https://webchat.freenode.net/?channels=#inexor)!
+That's about it at the moment. There can be some more controversial points, but if further questions appear: You will always find us in [#Inexor on freenode.net](https://webchat.freenode.net/?channels=#Inexor)!

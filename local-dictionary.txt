@@ -8,7 +8,6 @@ inexorgame
 Hackathon
 CubeScript
 Tesseract
-#inexor
 
 changelog
 codebase

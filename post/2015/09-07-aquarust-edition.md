@@ -20,7 +20,7 @@ Don't panic. This is still pre-release software, and there are a few bugs known.
 
 1. You can always try to grab the latest build from our [nightly archive](http://nightly.inexor.org).
 2. Furthermore, if you are on Ubuntu, you should check out [this bug](https://github.com/inexorgame/inexor-core/issues/209).
-3. If you encounter any strange errors, let us know in [our forum](https://community.inexor.org), on [GitHub](https://github.com/inexorgame), or @ _#inexor_
+3. If you encounter any strange errors, let us know in [our forum](https://community.inexor.org), on [GitHub](https://github.com/inexorgame), or @ _#Inexor_
 
 ### What's next on the list?
 There's dozens of things to do, but there are a few preferences set:

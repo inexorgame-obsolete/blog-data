@@ -18,4 +18,4 @@ Although this not a *consumer-ready* product yet you can obtain a bundle package
 ### Feedback
 We would be glad to receive as much feedback as possible. [Submit](https://github.com/inexorgame/inexor-core/issues) issues, bugs, ideas (...).
 
-Just want to tell us if you like our game? _#inexor_ is the right place to do so.
+Just want to tell us if you like our game? _#Inexor_ is the right place to do so.

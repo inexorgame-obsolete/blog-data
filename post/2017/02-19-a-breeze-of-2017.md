@@ -37,13 +37,13 @@ Furthermore our website is now hosted at Uberspace.
 ## Communication
 We switched our IRC channel from Gamesurge to Freenode. You can found us now at
 
-* [__#inexor__ on chat.freenode.net](https://webchat.freenode.net/?channels=#inexor)
+* [__#Inexor__ on chat.freenode.net](https://webchat.freenode.net/?channels=#Inexor)
 
 **or** on our new channel on Riot.im **(recommeded)**:
 
-* [Riot.im #inexor](https://riot.im/app/#/room/#inexor:matrix.org)
+* [Riot.im #Inexor](https://riot.im/app/#/room/#Inexor:matrix.org)
 
-Riot is a [Matrix](http://matrix.org/) client, so you can connect to #inexor:matrix.org with every compatible Matrix client. Therefore there are now more possibilities to chat with us as before. Both rooms are getting synced so nobody is missing something. We are recommending Riot since it is eliminating the need for a bouncer and has more features than IRC like file uploads and voice chats.
+Riot is a [Matrix](http://matrix.org/) client, so you can connect to #Inexor:matrix.org with every compatible Matrix client. Therefore there are now more possibilities to chat with us as before. Both rooms are getting synced so nobody is missing something. We are recommending Riot since it is eliminating the need for a bouncer and has more features than IRC like file uploads and voice chats.
 
 
 ## The team
