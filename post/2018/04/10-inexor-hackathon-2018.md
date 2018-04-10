@@ -6,7 +6,7 @@ author:     a-teammate
 summary:    Our first Hackathon of 2018: Lindau, Germany from 13. - 15. April 2018.
 ---
 
-Our next hackathon is in the pipeline! 🎉
+Our next Hackathon is in the pipeline! 🎉
 And it is starting pretty soon:
 Next weekend (**13.-15.04.2018**) we will meet up in **Lindau (Bodensee), Germany** at the [Treffpunkt Zech](http://leben-in-zech.de).
 Let's get creative in a wonderful surrounding, next to the Lake Constance!

@@ -77,6 +77,8 @@ facto
 
 Tuebingen
 Tübingen
+Lindau
+Zech
 
 AppVeyor
 Uberspace
@@ -84,6 +86,7 @@ Gamesurge
 Freenode
 FabLab
 shackspace
+Treffpunkt
 Ulmer
 Straße
 
