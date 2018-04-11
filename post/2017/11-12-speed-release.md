@@ -2,7 +2,7 @@
 layout:     post
 title:      Inexor 0.9.0 "Speed Release" announcement
 date:       2017-11-12 20:00 +0100
-author:     a_teammate
+author:     a-teammate
 summary:    The Inexor Speed release is finally here.
 ---
 

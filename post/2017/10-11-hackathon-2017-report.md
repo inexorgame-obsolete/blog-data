@@ -2,7 +2,7 @@
 layout:     post
 title:      Hackathon 2017 report
 date:       2017-10-11 16:00 +0200
-author:     Nooby
+author:     Croydon
 summary:    Our Hackathon 2017 is over - a look back and into the future.
 ---
 
