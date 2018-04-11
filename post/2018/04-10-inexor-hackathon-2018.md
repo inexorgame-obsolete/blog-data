@@ -3,7 +3,7 @@ layout:     post
 title:      Inexor Hackathon 2018
 date:       2018-10-04 19:00:00 +0200
 author:     a-teammate
-summary:    First Hackathon 2018: Lindau, Germany from 13. - 15. April.
+summary:    Our first Hackathon 2018 in Lindau, Germany from 13. - 15. April.
 ---
 
 Our next Hackathon is in the pipeline! 🎉
